@@ -1,0 +1,11 @@
+Parameter,Value
+Dataset Rows,4424
+Original Features,36
+Features Used,30
+Removed Second Semester Features,6
+Training Samples,3539
+Testing Samples,885
+Cross Validation,5-Fold Stratified
+Test Split,80% Training / 20% Testing
+Random State,42
+Target Classes,"Dropout, Enrolled, Graduate"

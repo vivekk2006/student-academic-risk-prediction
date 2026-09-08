@@ -1,0 +1,4 @@
+Model,ROC-AUC OVR Macro
+Logistic Regression,0.8569015300696733
+Decision Tree,0.7110500532435532
+Random Forest,0.8555174289086156
